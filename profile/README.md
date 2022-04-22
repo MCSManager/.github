@@ -1,12 +1,8 @@
-## Hi there 👋
+### 欢迎访问
 
-<!--
+MCSManager 面板（简称：MCSM 面板）是一款全中文，轻量级，开箱即用，多实例和支持 Docker 的 Minecraft 服务端管理面板。
 
-**Here are some ideas to get you started:**
+此控制面板在 Minecraft 和其他游戏社区内中已有一定的流行程度，它可以以进程为单位进行管理，具有基础的进程管理功能，同时也主持分配给您的子用户，再配合 Docker 软件使用即可实现安全的出租与盈利。目前已有多家公司、个体户与个人开发者使用软件作为管理工具。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+官方网站：https://mcsmanager.com/
